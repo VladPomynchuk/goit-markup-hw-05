@@ -739,9 +739,8 @@ p {
 }
 
 .backdrop.is-hidden {
-  visibility: hidden;
   opacity: 0;
-  transform: scale(0);
+
   pointer-events: none;
 }
 
